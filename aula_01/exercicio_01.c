@@ -32,3 +32,7 @@ int main(){
 
 // gcc aula_01/exercicio_01.c
 // ./a.out
+
+// git add .
+// git commit -m "Descrição tal"
+// git push
