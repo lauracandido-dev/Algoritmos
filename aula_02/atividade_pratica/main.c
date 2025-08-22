@@ -19,3 +19,4 @@ int main (){
 // cd exemplo_02 - entra na pasta
 // dentro da pasta gcc *.c
 // ./a.out
+// cd .. - volta uma pasta
