@@ -2,7 +2,7 @@
 #include "calculadora.h"
 
 int main (){
-    float a = 10.0, b = 3.0;
+    float a = 20.0, b = 30.0;
 
     printf("a = %.2f,b = %.2f\n", a, b);
     printf("Soma: %.2f\n", somar (a,b));
