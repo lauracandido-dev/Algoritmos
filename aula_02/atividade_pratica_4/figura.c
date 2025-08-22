@@ -40,7 +40,7 @@ float triangulo(float a, float b){
 }
 
 void menu(){
-    printf("Digite um número para calcular a área da figura desejada: ");
+    printf("Digite um número para calcular a área da figura desejada: \n");
     printf("1. Quadrado\n");
     printf("2. Retângulo\n");
     printf("3. Circunferência\n");
