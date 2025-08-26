@@ -1,0 +1,1 @@
+int idade(int num1);
