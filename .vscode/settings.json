@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "conversoes.h": "c"
+        "conversoes.h": "c",
+        "figura.h": "c"
     }
 }
