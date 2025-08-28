@@ -11,6 +11,6 @@ int idade(int num1){
     if (num1 >= 18)
         printf("É maior de idade");
     else{
-        printf("Não é maior de idade");
+        printf("Não é maior de idade\n");
     }
 }
