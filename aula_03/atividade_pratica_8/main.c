@@ -38,7 +38,7 @@ int main() {
         }
 
         printf("\n"); 
-    } while (opcao != 4); // repete enquanto não escolher 4
+    } while (opcao != 4); // com o while no fim fica repetindo até o usuário escolher o 4
 
     return 0;
 }
