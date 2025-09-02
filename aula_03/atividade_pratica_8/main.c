@@ -11,21 +11,21 @@ int main() {
 
         switch (opcao) {
             case 1:
-                printf("Digite o raio da circunferencia: ");
+                printf("Digite o raio da circunferência: ");
                 scanf("%f", &a);
-                printf("Area = %.2f\n", circunferencia(a));
+                printf("Área = %.2f\n", circunferencia(a));
                 break;
 
             case 2:
-                printf("Digite a base e a altura do triangulo: ");
+                printf("Digite a base e a altura do triângulo: ");
                 scanf("%f %f", &a, &b);
-                printf("Area = %.2f\n", triangulo(a, b));
+                printf("Área = %.2f\n", triangulo(a, b));
                 break;
 
             case 3:
-                printf("Digite a base e a altura do retangulo: ");
+                printf("Digite a base e a altura do retângulo: ");
                 scanf("%f %f", &a, &b);
-                printf("Area = %.2f\n", retangulo(a, b));
+                printf("Área = %.2f\n", retangulo(a, b));
                 break;
 
             case 4:

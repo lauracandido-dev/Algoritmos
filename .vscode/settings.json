@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "conversoes.h": "c",
-        "figura.h": "c"
+        "figura.h": "c",
+        "random": "c"
     }
 }
