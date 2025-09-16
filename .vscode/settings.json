@@ -2,6 +2,7 @@
     "files.associations": {
         "conversoes.h": "c",
         "figura.h": "c",
-        "random": "c"
+        "random": "c",
+        "stdio.h": "c"
     }
 }
